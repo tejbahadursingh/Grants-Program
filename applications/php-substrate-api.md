@@ -2,7 +2,7 @@
 
 * **Project Name:** php substrate api
 * **Team Name:** Nitor Infotech
-* **Payment Address:** We are working on BTC/Ethereum address, in following PR push we will provide this address. 
+* **Payment Address:** We are working on BTC/Ethereum address, in following PR push we will provide this address.
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1 
 
 ## Project Overview :page_facing_up:
@@ -150,7 +150,7 @@ To assist you in defining it, we have created a document with examples for some 
 
 * **Estimated Duration:** 5 days
 * **FTE:**  10
-* **Costs:** 3000 USD
+* **Costs:** 2000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
